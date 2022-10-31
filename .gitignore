@@ -1,0 +1,11 @@
+.cache
+__pycache__/
+__pycache__/*
+*/__pycache__/
+*/__pycache__/*
+notes.md
+.ipynp_checkpoints/
+.DS_Store
+.env
+.flaskenv
+test.py
